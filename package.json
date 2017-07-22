@@ -1,0 +1,19 @@
+{
+  "name": "mp-trans-core",
+  "version": "0.0.1",
+  "author": "zhang jizhe <jizhe_zhang@aliyun.com>",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "iconv-lite": "^0.4.15",
+    "log4js": "^1.1.1",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.29",
+    "mysql": "^2.13.0",
+    "redis": "^2.7.1",
+    "restify": "^5.0.1",
+    "restify-cors-middleware": "^1.0.0",
+    "restify-errors": "^4.3.0",
+    "sequelize": "^3.30.4"
+  }
+}
+

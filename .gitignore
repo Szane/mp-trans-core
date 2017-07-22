@@ -1,0 +1,7 @@
+*.log
+.idea/*
+uploads/*
+node_modules
+.DS_Store
+.DS_Store?
+which_version
